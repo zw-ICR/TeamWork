@@ -20,10 +20,10 @@ import android.util.TypedValue;
 
 /**
  * @author JeffyChen (chenjh263@qq.com)
- * 修改时间�?015�?�?2�?
- * 跟踪单号�?
- * 修改单号�?
- * 修改内容�?
+ * 修改时间
+ * 跟踪单号
+ * 修改单号
+ * 修改内容
  * 
  * */
 
