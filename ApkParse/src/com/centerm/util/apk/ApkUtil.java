@@ -19,7 +19,7 @@ import android.util.TypedValue;
  */
 
 /**
- * @author JeffyChen (chenjh263@qq.com)
+ * @author zwen
  * 修改时间
  * 跟踪单号
  * 修改单号
@@ -32,7 +32,7 @@ public class ApkUtil {
     public static void main(String[] args) {
         String apkFile = "E:/set.apk";
         
-        ApkUtil apkUtil = new ApkUtil();
+        ApkUtil apkUtil = new ApkUtil(); 
         
         try{
             AndroidApkPkgInfo aapi = apkUtil.getApkInfo(apkFile);
